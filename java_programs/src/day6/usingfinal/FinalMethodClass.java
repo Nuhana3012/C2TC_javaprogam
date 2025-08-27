@@ -1,5 +1,7 @@
 package day6.usingfinal;
 
+
+
 public class FinalMethodClass {
 	FinalMethodClass() {
 		System.out.println("This is a default constructor");

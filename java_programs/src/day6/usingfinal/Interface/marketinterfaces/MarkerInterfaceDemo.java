@@ -1,5 +1,7 @@
 package day6.usingfinal.Interface.marketinterfaces;
 
+
+
 public class MarkerInterfaceDemo {
 
 	public static void main(String[] args) {

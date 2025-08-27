@@ -1,5 +1,7 @@
 package day6.usingfinal.Interface.implementinginterfaces;
 
+
+
 public class Account {
 	
 	private int accNo;

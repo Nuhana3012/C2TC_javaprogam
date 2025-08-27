@@ -1,5 +1,7 @@
 package day6.usingfinal.Interface.instanceofinterface;
 
+
+
 public class Samsung implements Phone {
 
 	@Override

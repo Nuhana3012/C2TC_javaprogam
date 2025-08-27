@@ -1,5 +1,7 @@
 package day6.usingfinal.Interface.marketinterfaces;
 
+
+
 public class Student implements Registrable {
 	private int id;
 	private String name;

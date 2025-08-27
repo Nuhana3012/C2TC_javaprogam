@@ -1,5 +1,7 @@
 package day6.usingfinal.Interface.functionalinterface;
 
+
+
 public class FunctionalInterfaceDemo {
 
 	public static void main(String[] args) {

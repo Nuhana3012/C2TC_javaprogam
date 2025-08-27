@@ -1,5 +1,7 @@
 package day6.usingfinal;
 
+
+
 public class FinalVariable {
 	
 	final int var1 = 100;

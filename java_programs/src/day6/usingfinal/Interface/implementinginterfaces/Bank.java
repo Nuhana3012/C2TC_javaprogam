@@ -1,5 +1,7 @@
 package day6.usingfinal.Interface.implementinginterfaces;
 
+
+
 public interface Bank {
 	
 	double MIN_BALANCE =1000;

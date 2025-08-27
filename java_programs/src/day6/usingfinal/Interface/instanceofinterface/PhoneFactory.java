@@ -1,5 +1,7 @@
 package day6.usingfinal.Interface.instanceofinterface;
 
+
+
 public class PhoneFactory {
 	public static Phone createPhone(String company) {
 		if (company.equalsIgnoreCase("Samsung"))
