@@ -1,5 +1,7 @@
 package day5.multilevelinheritance.texteditor;
 
+
+
 public class TextEditor {
 	public static void main(String[] args) {
 		Word word = new Word();

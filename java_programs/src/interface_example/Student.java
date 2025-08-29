@@ -1,5 +1,7 @@
 package interface_example;
 
+
+
 public class Student implements Coder {
 	
 	@Override

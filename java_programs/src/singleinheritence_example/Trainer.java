@@ -1,5 +1,7 @@
 package singleinheritence_example;
 
+
+
 public class Trainer extends Person {
 	
 	

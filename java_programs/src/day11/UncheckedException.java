@@ -1,5 +1,7 @@
 package day11;
 
+
+
 public class UncheckedException {
 	
 	public static void main(String[] args) {

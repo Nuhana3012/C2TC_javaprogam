@@ -10,6 +10,8 @@ public class WithoutLambdaExpr {
 	        	}};
 	        	
 	        	System.out.println(s.show());
+	        	
+	        	
 	        
 
 	}

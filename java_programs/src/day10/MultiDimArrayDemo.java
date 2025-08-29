@@ -1,5 +1,7 @@
 package day10;
 
+
+
 public class MultiDimArrayDemo {
 
 	public static void main(String[] args) {

@@ -1,6 +1,8 @@
 package day5.multilevelinheritance;
 import java.util.*;
 
+
+
 public class Employee extends Person {
 	private String deptName;
 	private double baseSalary;

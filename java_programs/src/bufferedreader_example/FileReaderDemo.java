@@ -2,6 +2,8 @@ package bufferedreader_example;
 import java.io.*;
 import java.net.URL;
 
+
+
 public class FileReaderDemo {
 	 public static void main(String[] args) throws IOException {
 	        URL resource = FileReaderDemo.class.getResource("javaprogram.txt");

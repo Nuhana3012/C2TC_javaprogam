@@ -1,5 +1,7 @@
 package day5.hierarchicalinheritance;
 
+
+
 public class Student extends Person{
 	private String clas;
 	private float per;

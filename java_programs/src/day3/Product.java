@@ -1,5 +1,7 @@
 package day3;
 
+
+
 public class Product {
 	private int pid;
 	private String product_name;

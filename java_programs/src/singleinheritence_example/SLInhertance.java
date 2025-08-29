@@ -1,5 +1,7 @@
 package singleinheritence_example;
 
+
+
 public class SLInhertance {
 
 	public static void main(String[] args) {

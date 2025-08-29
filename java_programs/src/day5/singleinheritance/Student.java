@@ -1,5 +1,7 @@
 package day5.singleinheritance;
 
+
+
 public class Student extends Citizen{
 	private int rollNo;
 	private String collegeName;

@@ -1,6 +1,8 @@
 package day5.multilevelinheritance;
 import java.util.*;
 
+
+
 public class LevelOneEmployee extends Employee {
 	private int noOfShares;
     private String authority;

@@ -2,6 +2,8 @@ package day19;
 import java.util.function.Function;
 import java.util.stream.Stream;
 
+
+
 public class LambdaExpWithParameter {
 	
 

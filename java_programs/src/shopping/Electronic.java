@@ -1,5 +1,7 @@
 package shopping;
 
+
+
 public class Electronic implements ShoppingMall{
 	
 	public void purchase() {

@@ -1,5 +1,7 @@
 package day5.singleinheritance;
 
+
+
 public class Citizen {
 	private String name;
 	private String aadharNo;

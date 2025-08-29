@@ -1,5 +1,7 @@
 package singleinheritence_example;
 
+
+
 public class Person {
 	private int pid;
 	private String name;

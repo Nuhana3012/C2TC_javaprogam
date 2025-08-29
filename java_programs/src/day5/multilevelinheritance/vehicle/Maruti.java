@@ -1,5 +1,7 @@
 package day5.multilevelinheritance.vehicle;
 
+
+
 public class Maruti extends Car{
 	public Maruti() {
 		System.out.println("Class Maruti");

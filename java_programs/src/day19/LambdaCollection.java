@@ -2,6 +2,8 @@ package day19;
 import java.util.*;
 public class LambdaCollection {
 	
+	
+	
 	public static void main(String[] args) {
 		
 		ArrayList<Integer> list=new ArrayList<>();

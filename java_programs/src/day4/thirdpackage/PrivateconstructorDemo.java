@@ -1,5 +1,7 @@
 package day4.thirdpackage;
 
+
+
 public class PrivateconstructorDemo {
 	public static void main(String s[]) {
 		// Can't create object with private constructor

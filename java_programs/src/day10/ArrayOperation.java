@@ -1,5 +1,7 @@
 package day10;
 
+
+
 public class ArrayOperation {
 	
 	static void printArray(int[] arr) {

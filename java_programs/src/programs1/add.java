@@ -2,6 +2,8 @@ package programs1;
 import java.io.*;
 //import java.util.*;
 
+
+
 public class add {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {

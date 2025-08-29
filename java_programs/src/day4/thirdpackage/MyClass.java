@@ -1,5 +1,7 @@
 package day4.thirdpackage;
 
+
+
 public class MyClass {
 	private static MyClass obj=new MyClass();
 	private int id;

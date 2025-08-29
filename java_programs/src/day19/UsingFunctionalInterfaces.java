@@ -5,6 +5,8 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 
+
+
 class Display {
 	static void show(String s) {
 		System.out.println("****" + s + "*********");

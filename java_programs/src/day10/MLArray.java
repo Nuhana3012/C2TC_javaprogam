@@ -1,5 +1,7 @@
 package day10;
 
+
+
 public class MLArray {
 	static void printArray(int c[][])
 	{

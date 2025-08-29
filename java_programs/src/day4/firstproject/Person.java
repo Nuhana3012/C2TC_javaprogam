@@ -1,5 +1,7 @@
 package day4.firstproject;
 
+
+
 public class Person {
 	
 	private String name;

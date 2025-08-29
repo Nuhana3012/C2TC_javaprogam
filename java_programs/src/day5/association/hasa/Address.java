@@ -1,5 +1,7 @@
 package day5.association.hasa;
 
+
+
 public class Address {
 	private String street;
 	private String city;

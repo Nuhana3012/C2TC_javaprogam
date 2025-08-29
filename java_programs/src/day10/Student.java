@@ -1,5 +1,7 @@
 package day10;
 
+
+
 public class Student {
 	private int rollNo;
 	private String name;

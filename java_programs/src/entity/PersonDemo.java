@@ -1,5 +1,7 @@
 package entity;
 
+
+
 import java.util.Scanner;
 
 public class PersonDemo {

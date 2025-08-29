@@ -1,5 +1,7 @@
 package interface_example;
 
+
+
 public class Trainer implements Coder{
 	
 	@Override

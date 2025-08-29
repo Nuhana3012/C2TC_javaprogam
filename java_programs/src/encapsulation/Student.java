@@ -1,5 +1,7 @@
 package encapsulation;
 
+
+
 public class Student {
 
 	private int sid;
