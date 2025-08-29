@@ -5,6 +5,7 @@ public class UsingRunnable extends Runnable {
 	int high, low;
 	String msg;
 
+	
 	public UsingRunnable(int low, int high, String msg) {
 		this.high = high;
 		this.low = low;
