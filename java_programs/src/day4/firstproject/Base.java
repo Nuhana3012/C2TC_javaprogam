@@ -1,7 +1,10 @@
 package day4.firstproject;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Base {
 	
 	int varDefault=10;

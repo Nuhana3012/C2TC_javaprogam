@@ -1,8 +1,11 @@
 package day12.userdefiedexp;
 import java.util.*;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Executor {
 
 	public static void main(String[] args) {

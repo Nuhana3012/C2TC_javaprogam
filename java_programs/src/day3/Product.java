@@ -1,7 +1,10 @@
 package day3;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Product {
 	private int pid;
 	private String product_name;

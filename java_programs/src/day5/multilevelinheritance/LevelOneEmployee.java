@@ -1,8 +1,11 @@
 package day5.multilevelinheritance;
 import java.util.*;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class LevelOneEmployee extends Employee {
 	private int noOfShares;
     private String authority;

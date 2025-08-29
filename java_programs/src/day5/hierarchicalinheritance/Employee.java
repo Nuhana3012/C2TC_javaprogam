@@ -1,7 +1,10 @@
 package day5.hierarchicalinheritance;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Employee extends Person {
 	private int empId;
 	private float salary;

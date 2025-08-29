@@ -1,7 +1,10 @@
 package day5.singleinheritance;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Student extends Citizen{
 	private int rollNo;
 	private String collegeName;

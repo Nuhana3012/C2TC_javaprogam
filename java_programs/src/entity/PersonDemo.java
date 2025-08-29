@@ -1,7 +1,10 @@
 package entity;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 import java.util.Scanner;
 
 public class PersonDemo {

@@ -1,7 +1,10 @@
 package singleinheritence_example;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Trainer extends Person {
 	
 	

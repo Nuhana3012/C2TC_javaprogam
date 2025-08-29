@@ -2,8 +2,11 @@ package programs1;
 import java.io.*;
 //import java.util.*;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class add {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {

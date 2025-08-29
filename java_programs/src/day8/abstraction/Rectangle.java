@@ -1,7 +1,10 @@
 package day8.abstraction;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Rectangle extends Shape{
 	
 	private float width,height;

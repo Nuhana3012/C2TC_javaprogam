@@ -1,7 +1,10 @@
 package day6.usingfinal.Interface.marketinterfaces;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Student implements Registrable {
 	private int id;
 	private String name;

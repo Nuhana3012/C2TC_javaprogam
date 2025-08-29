@@ -1,7 +1,10 @@
 package day4.thirdpackage;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class MyClass {
 	private static MyClass obj=new MyClass();
 	private int id;

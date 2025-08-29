@@ -1,8 +1,14 @@
 package bufferedreader_example;
+<<<<<<< HEAD
 import java.io.*;
 import java.net.URL;
 
 
+=======
+
+import java.io.*;
+import java.net.URL;
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 
 public class FileReaderDemo {
 	 public static void main(String[] args) throws IOException {

@@ -2,8 +2,11 @@ package day19;
 import java.util.*;
 public class LambdaCollection {
 	
+<<<<<<< HEAD
 	
 	
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 	public static void main(String[] args) {
 		
 		ArrayList<Integer> list=new ArrayList<>();

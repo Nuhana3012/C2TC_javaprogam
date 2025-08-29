@@ -1,6 +1,9 @@
 package day5.association.isa;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Manager extends Employee {
 	private int teamSize;
 

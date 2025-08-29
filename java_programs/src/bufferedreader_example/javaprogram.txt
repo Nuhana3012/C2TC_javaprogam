@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hi iam Nuhana
 i am in the capgemini training
 currently persuing b.tech aiml
@@ -5,3 +6,8 @@ in mvit
 
 
 
+=======
+hi iam nuhana
+i am in the capgemini training
+in Btech MVIT
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git

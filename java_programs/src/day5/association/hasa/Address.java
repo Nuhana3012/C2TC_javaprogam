@@ -1,7 +1,10 @@
 package day5.association.hasa;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Address {
 	private String street;
 	private String city;

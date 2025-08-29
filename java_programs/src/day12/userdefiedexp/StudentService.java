@@ -1,8 +1,11 @@
 package day12.userdefiedexp;
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class StudentService {
 	public void setMarks(Student student, int[] marks) throws InvalidMarksException {
         for (int mark : marks) {

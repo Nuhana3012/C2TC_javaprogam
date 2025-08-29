@@ -2,8 +2,11 @@ package day19;
 import java.util.function.Function;
 import java.util.stream.Stream;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class LambdaExpWithParameter {
 	
 

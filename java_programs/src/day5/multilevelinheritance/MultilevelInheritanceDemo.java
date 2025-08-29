@@ -2,8 +2,11 @@ package day5.multilevelinheritance;
 import java.text.*;
 import java.util.Date;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class MultilevelInheritanceDemo {
 	public static void main(String[] args) {
 

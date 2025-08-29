@@ -1,7 +1,10 @@
 package encapsulation;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Student {
 
 	private int sid;

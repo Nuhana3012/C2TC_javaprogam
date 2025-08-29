@@ -1,8 +1,11 @@
 package day4.secondproject;
 import day4.firstproject.*;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class Executor {
 	public static void main(String[] args) {
 		// accessing different package class

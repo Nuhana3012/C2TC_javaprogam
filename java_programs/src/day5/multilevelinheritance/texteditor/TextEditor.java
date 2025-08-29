@@ -1,7 +1,10 @@
 package day5.multilevelinheritance.texteditor;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class TextEditor {
 	public static void main(String[] args) {
 		Word word = new Word();

@@ -5,8 +5,11 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 class Display {
 	static void show(String s) {
 		System.out.println("****" + s + "*********");

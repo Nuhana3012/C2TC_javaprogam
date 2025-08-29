@@ -1,7 +1,10 @@
 package day6.usingfinal.Interface.implementinginterfaces;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class BankApplication {
 
 	public static void main(String[] args) {

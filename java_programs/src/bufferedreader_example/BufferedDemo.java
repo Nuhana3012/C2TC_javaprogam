@@ -1,10 +1,17 @@
 
 package bufferedreader_example;
+<<<<<<< HEAD
 import java.io.*;
 
 public class BufferedDemo {
 	
 	
+=======
+
+import java.io.*;
+
+public class BufferedDemo {
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 	
 
 	public static void main(String[] args) throws IOException {

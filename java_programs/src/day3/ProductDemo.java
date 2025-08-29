@@ -1,8 +1,11 @@
 package day3;
 import java.util.*;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class ProductDemo {
 
 	public static void main(String[] args) {

@@ -1,7 +1,10 @@
 package day6.usingfinal;
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 public class FinalVariable {
 	
 	final int var1 = 100;

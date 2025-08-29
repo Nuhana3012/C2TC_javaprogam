@@ -10,8 +10,11 @@ public class WithoutLambdaExpr {
 	        	}};
 	        	
 	        	System.out.println(s.show());
+<<<<<<< HEAD
 	        	
 	        	
+=======
+>>>>>>> branch 'master' of https://github.com/Nuhana3012/C2TC_javaprogam.git
 	        
 
 	}
